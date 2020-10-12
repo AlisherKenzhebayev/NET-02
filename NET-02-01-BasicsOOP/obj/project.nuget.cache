@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7zeSetnXEjp0fTtaJM9R6Na1YyKhwbtBMlb+TWUi1iUkZwxlNka79qpwDX0D9CZMGvnnH4clkZENQkvQ/s7sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AINKRAD\\source\\repos\\NET-02\\NET-02-01-BasicsOOP\\NET-02-01-BasicsOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AINKRAD\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

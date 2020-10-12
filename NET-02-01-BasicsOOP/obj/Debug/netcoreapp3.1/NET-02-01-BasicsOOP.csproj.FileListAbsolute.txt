@@ -1,0 +1,13 @@
+C:\Users\AINKRAD\source\repos\NET-02\NET-02\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.csprojAssemblyReference.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.AssemblyInfoInputs.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.AssemblyInfo.cs
+C:\Users\AINKRAD\source\repos\NET-02\NET-02\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.csproj.CoreCompileInputs.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\bin\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.deps.json
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\bin\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.dll
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.csprojAssemblyReference.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.AssemblyInfoInputs.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.AssemblyInfo.cs
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\bin\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.pdb
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.csproj.CoreCompileInputs.cache
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.dll
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-01-BasicsOOP\obj\Debug\netcoreapp3.1\NET-02-01-BasicsOOP.pdb
