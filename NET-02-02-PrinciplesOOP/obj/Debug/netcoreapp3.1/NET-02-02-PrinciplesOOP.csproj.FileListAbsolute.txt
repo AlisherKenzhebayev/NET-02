@@ -4,6 +4,6 @@ C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\bin\Debug\netcoreap
 C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.csprojAssemblyReference.cache
 C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.AssemblyInfoInputs.cache
 C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.AssemblyInfo.cs
-C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.csproj.CoreCompileInputs.cache
 C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.dll
 C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.pdb
+C:\Users\AINKRAD\source\repos\NET-02\NET-02-02-PrinciplesOOP\obj\Debug\netcoreapp3.1\NET-02-02-PrinciplesOOP.csproj.CoreCompileInputs.cache

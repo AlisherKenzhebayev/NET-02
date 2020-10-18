@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Vo4M11xY8AHDAt4DrzU02QQOk83b+vD7oIqDbeZYmn8TN+BBrTPWFky3m49gXN4lpPLDcwAbYa1j82Usob2GKw==",
+  "dgSpecHash": "6KN3JlPnACUmUBCcoGl6afKQ5P0eBa+y5Np5MIN0XzWOQUWnGiqft9gV1igC0Y0YcwV0ZFoOzxaIVYjrhWgG+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\AINKRAD\\source\\repos\\NET-02\\NET-02-02-PrinciplesOOP\\NET-02-02-PrinciplesOOP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AINKRAD\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
   "logs": []
 }

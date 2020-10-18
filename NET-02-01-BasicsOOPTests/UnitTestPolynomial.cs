@@ -1,4 +1,4 @@
-﻿// <copyright file="UnitTestGeometricHierarchy.cs" company="PlaceholderCompany">
+﻿// <copyright file="UnitTestPolynomial.cs" company="PlaceholderCompany">
 // Copyright (c) PlaceholderCompany. All rights reserved.
 // </copyright>
 

@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinciplesOOPTests", "PrinciplesOOPTests\PrinciplesOOPTests.csproj", "{905F5A75-4302-47A0-89A2-1AE3B50F4F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{264ADDA4-AC8B-44A0-B58A-23B4CDE5EDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264ADDA4-AC8B-44A0-B58A-23B4CDE5EDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264ADDA4-AC8B-44A0-B58A-23B4CDE5EDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905F5A75-4302-47A0-89A2-1AE3B50F4F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905F5A75-4302-47A0-89A2-1AE3B50F4F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905F5A75-4302-47A0-89A2-1AE3B50F4F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905F5A75-4302-47A0-89A2-1AE3B50F4F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
